@@ -1,0 +1,12 @@
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\bin\Debug\RaytracerCSharp.exe.config
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\bin\Debug\RaytracerCSharp.exe
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\bin\Debug\RaytracerCSharp.pdb
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\bin\Debug\GlmSharp.dll
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\bin\Debug\GlmSharp.xml
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.csprojAssemblyReference.cache
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.Properties.Resources.resources
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.csproj.GenerateResource.cache
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.csproj.CopyComplete
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.exe
+C:\Users\garmu\source\repos\RaytracerCSharp\RaytracerCSharp\obj\Debug\RaytracerCSharp.pdb
